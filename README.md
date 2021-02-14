@@ -21,5 +21,5 @@ The data is about whether a client has payment difficulties.
 The entire code with Explaination is present in the jupiter notebook.
 
 ## Results 
-The Business Problem, Overall Approach and Results are present in the ppt.
+The Business Problem and Results are explained in the pdf.
 
