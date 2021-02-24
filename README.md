@@ -1,4 +1,4 @@
-# EDA-on-Credit-Loan-data
+# Loan Defaulters : EDA Case Study
 
 ## AIM
 This case study aims to identify patterns which indicate if a client has difficulty paying their
